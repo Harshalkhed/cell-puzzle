@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: dcc4857cccb91e84a882f20506e1e6bb
+timeCreated: 1469102792
+licenseType: Store
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/_Scenes/Main.unity
+  uploadId: 342778

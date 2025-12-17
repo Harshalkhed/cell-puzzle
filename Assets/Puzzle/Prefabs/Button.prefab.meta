@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 5ea30d4aed7701f488d00ab44c034fea
+timeCreated: 1469555169
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Prefabs/Button.prefab
+  uploadId: 342778

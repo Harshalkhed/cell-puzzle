@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: d966cf293ffe4aa40993909678579c73
+timeCreated: 1490863485
+licenseType: Store
+ShaderImporter:
+  defaultTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Shaders/UI-Gradient.shader
+  uploadId: 342778

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: a2010f5186cc44342a3aab19cf98ae9b
+timeCreated: 1489511075
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Scripts/Data/GameConfig.cs
+  uploadId: 342778

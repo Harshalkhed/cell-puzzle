@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 96c2503bfbf80dc41a94c5702d7b1dab
+timeCreated: 1491822922
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Scripts/UI/CoinText.cs
+  uploadId: 342778

@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 010cbb26d3508a8458009449ec1fa44b
+timeCreated: 1493037746
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Scripts/Command/SaveProgress.cs
+  uploadId: 342778

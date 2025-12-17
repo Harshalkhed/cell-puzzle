@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: bc8bc38d58222324183cc14c6d891b28
+timeCreated: 1494430413
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Scripts/UI/Single UI/AppLinkButton.cs
+  uploadId: 342778

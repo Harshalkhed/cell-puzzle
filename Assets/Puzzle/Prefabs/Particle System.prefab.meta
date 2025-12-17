@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a16f35f8d1ab0ea49bc82579e6f61bd0
+timeCreated: 1492759700
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Prefabs/Particle System.prefab
+  uploadId: 342778

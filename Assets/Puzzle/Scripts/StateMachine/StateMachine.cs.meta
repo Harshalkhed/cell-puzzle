@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ee9112c229fada9438343f261a81007b
+timeCreated: 1490612279
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Scripts/StateMachine/StateMachine.cs
+  uploadId: 342778

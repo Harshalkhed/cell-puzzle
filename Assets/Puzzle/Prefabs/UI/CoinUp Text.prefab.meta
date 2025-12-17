@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 5a9237dfd7330c749abefeb3208a0897
+timeCreated: 1495109017
+licenseType: Store
+NativeFormatImporter:
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Prefabs/UI/CoinUp Text.prefab
+  uploadId: 342778

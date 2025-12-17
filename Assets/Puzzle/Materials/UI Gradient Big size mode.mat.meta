@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b395d93a479c03c4e92da97e4cee9e75
+timeCreated: 1490863816
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Materials/UI Gradient Big size mode.mat
+  uploadId: 342778

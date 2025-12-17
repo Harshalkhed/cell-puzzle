@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1c94ec610d6a42a4bbef754a68924578
+timeCreated: 1491321315
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Prefabs/UI/Field Item.prefab
+  uploadId: 342778

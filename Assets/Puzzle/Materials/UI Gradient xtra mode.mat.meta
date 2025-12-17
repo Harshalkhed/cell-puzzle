@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ebfe7d8308649f54cb01c06ec9c33f88
+timeCreated: 1490863816
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Materials/UI Gradient xtra mode.mat
+  uploadId: 342778

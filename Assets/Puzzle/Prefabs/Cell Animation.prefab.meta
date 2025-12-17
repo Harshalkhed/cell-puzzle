@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c1c44050aa0c9534c94105ea3a6a2b00
+timeCreated: 1491392330
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Prefabs/Cell Animation.prefab
+  uploadId: 342778

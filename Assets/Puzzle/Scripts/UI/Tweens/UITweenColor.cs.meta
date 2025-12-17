@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 3c9b50506aa4c4f43a3743f1b57f1a2b
+timeCreated: 1487255049
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Scripts/UI/Tweens/UITweenColor.cs
+  uploadId: 342778

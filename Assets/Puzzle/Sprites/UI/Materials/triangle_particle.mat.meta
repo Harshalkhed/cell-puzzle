@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 15376eaa9b34a1648b474f477eaafd0b
+timeCreated: 1492608107
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Sprites/UI/Materials/triangle_particle.mat
+  uploadId: 342778

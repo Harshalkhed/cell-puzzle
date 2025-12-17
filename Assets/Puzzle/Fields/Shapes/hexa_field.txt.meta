@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 22e54ebe24f374b499b17599bcf56a4a
+timeCreated: 1490211168
+licenseType: Store
+TextScriptImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Fields/Shapes/hexa_field.txt
+  uploadId: 342778

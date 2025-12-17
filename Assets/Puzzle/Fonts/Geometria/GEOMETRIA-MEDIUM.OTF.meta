@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 121f02f50bddae74db8d3c9756f640db
+timeCreated: 1482333141
+licenseType: Store
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Geometria
+  fontNames:
+  - Geometria
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Fonts/Geometria/GEOMETRIA-MEDIUM.OTF
+  uploadId: 342778

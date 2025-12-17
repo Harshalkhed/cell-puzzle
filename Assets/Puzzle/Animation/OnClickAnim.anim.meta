@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d3e790ec33ff87247b639b0eed7c09e2
+timeCreated: 1484333592
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 101535
+  packageName: Cell Puzzle - Mobile Game Template
+  packageVersion: 1.1.1
+  assetPath: Assets/Puzzle/Animation/OnClickAnim.anim
+  uploadId: 342778
